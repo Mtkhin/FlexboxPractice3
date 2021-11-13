@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box ;
+}
+
+.container{
+  background-color: black;
+  padding: 10px;
+  margin: 40px;
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap-reverse;
+}
+
+.item{
+  width: 110px;
+  color: #fff;
+  font-size: 25px;
+  padding: 20px;
+  margin: 0px;
+}
+
+.items-1{
+  background-color: palevioletred;
+}
+
+.items-2{
+  background-color: indigo;
+}
+
+.items-3{
+  background-color: mediumpurple;
+}
+
+.items-4{
+  background-color: cornflowerblue;
+}
+
+.items-5{
+  background-color: turquoise;
+}
+
+.items-6{
+  background-color: palegreen;
+}
+
+.items-7{
+  background-color: olive;
+}
+
+.items-8{
+  background-color: gold;
+}
+
+.items-9{
+  background-color: yellow;
+}
+
+.items-10{
+  background-color: tomato;
+}
